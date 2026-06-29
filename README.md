@@ -8,4 +8,6 @@ To showcase the process, code samples will be provided being:
 2. Modeling
 3. App Development
 
-For final showcase, the poster board is shown.
+For final showcase, the poster board is shown and a link to me presenting it is shown here: https://youtu.be/nneyH-xVzQY
+
+Note: The limit was a 3 minute long video for the class although I believe more time could have been allotted to explain the project more thoroughly.
